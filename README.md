@@ -12,5 +12,6 @@ References for adaptive activation functions:
 
 3. A.D. Jagtap, Y. Shin, K. Kawaguchi, G.E. Karniadakis, Deep Kronecker neural networks: A general framework for neural networks with adaptive activation functions, Neurocomputing, 468, 165-180, 2022. (https://www.sciencedirect.com/science/article/pii/S0925231221015162)
 
+Recommended software versions: TensorFlow 1.14, Python 3.6, Latex (for plotting figures)
 
 In case of any queries, feel free to contact me at ameyadjagtap@gmail.com, ameya_jagtap@brown.edu 
