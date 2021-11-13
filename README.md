@@ -4,7 +4,9 @@ We employ adaptive activation functions for regression in deep and physics-infor
 
 Code: PINN code for the Burgers equation (1 Dimension) 
 
-References for adaptive activation functions:
+                                                 If you make use of the code or idea in your work, please cite our papers
+
+References for adaptive activation functions: 
 
 1. A.D. Jagtap, K.Kawaguchi, G.E.Karniadakis, Adaptive activation functions accelerate convergence in deep and physics-informed neural networks, Journal of Computational Physics, 404 (2020) 109136. (https://doi.org/10.1016/j.jcp.2019.109136)
 
